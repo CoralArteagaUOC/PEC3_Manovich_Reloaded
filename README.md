@@ -6,6 +6,7 @@ Fecha: 24/05/2023
 ## Planteamiento
 
 ![Codemiko vtuber 3D](https://static.designboom.com/wp-content/uploads/2021/01/code-miko-twitch-designboom-03.gif)
+
 Es crucial establecer una legislación rápida y efectiva para establecer límites e identificar los beneficios y los desafíos que representa la inteligencia artificial. Dado su enorme potencial y su creciente adopción a nivel mundial, **Geoffrey Hinton**, conocido como el padrino de la inteligencia artificial, deja su trabajo en **Google** para advertir de los peligros que conlleva el fugaz desarrollo de la **IA**. Ya que la falta de regulación puede ser un riesgo para los derechos humanos, la protección de datos y la veracidad de los medios.
 
 Mucha gente parece creer que es una exageración la demanda masiva de regular estos chatbots. Sin embargo, los profesionales del mundo de la informática hacen énfasis en la necesidad de establecer una regulación internacional. Hasta el punto que los propios creadores y figuras tan influyentes como **Elon Musk** piden tiempo muerto para poder establecer reglas que delimiten a las inteligencias artificiales. En una entrevista **Elon Musk** exigía que se detuviese durante medio año el uso público de la **IA** hasta tener unas leyes adaptadas a esta nueva tecnología.
@@ -17,6 +18,7 @@ Hemos llegado al punto en el que los **chatbots** son capaces de imitar la perso
 ## Caso 1: Character.ai
 
 ![Character.AI logo](https://cdn.stealthoptional.com/images/ncavvykf/stealth/51d4b791b314393df5b05c021092972f89434686-1200x628.jpg?rect=0,14,1200,600&w=1200&h=600&auto=format)
+
 El 29 de marzo del 2023, el canal de **Jubilee** en **YouTube** publicó un experimento social en el que seis humanos debían hablar a través de teléfonos móviles en un chat en línea. El objetivo del reto era detectar a una inteligencia artificial que se ocultaba entre ellos. Los concursantes y la **IA** tenían que responder a unas preguntas proporcionadas por el equipo de producción y una vez terminada la ronda, las personas votaban para echar a un individuo del grupo. Finalmente, a la etapa decisiva llegaron únicamente dos humanos y la inteligencia artificial. Los concursantes ganaron al descalificar al **chatbot**. 
 
 Pese a la victoria del ser humano contra la máquina inteligente, cuatro seres humanos fueron descalificados al ser sospechosos de ser demasiado mecánicos como para ser un humano veraz. Por el contrario, **ChatGPT**, el bot utilizado para este experimento, consiguió infiltrarse de manera tan eficaz que parecía más persona que los cuatro concursantes descalificados. Para conseguir pasar desapercibido, imita las características más comunes de las personas al chatear en redes sociales: faltas ortográficas, no contestar de manera inmediata, responder con conocimiento general y mostrar emociones o emoticonos. Así sobrevivió hasta la última ronda. ¿Cómo consiguió la IA pensar, expresarse e interactuar como una persona?
@@ -36,6 +38,7 @@ En resumen, **Character.ai** utiliza algoritmos de aprendizaje, análisis de tex
 
 ## Caso 2: Vtubers
 ![Anime Vtubers](https://cdnr.escharts.com/uploads/public/636/a29/9a1/636a299a1811e465565400.png)
+
 Visto el éxito que tienen las inteligencias artificiales que pretenden ser personajes ficticios o reales, no sorprendería que los avatares virtuales controlados por personas fuesen todo un éxito mundial en las plataformas sociales actuales.
 
 Estamos hablando de los **Vtubers**, youtubers virtuales. Creadores de contenido que al igual que los youtubers, comparten en plataformas online juegos en vivo, videoblogs, hacen entrevistas. Hace un año se creó un evento conocido como los **Streamer Awards**, dónde se premia a los mejores streamers del año. El impacto de los Vtubers es tal que son considerados grandes creadores de contenido y, por lo tanto, tienen una categoría exclusiva destinada a estos creadores.
